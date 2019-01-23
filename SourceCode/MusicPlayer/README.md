@@ -2,7 +2,7 @@
 
 ## Clone & Setup
 ```
-git clone https://github.com/Learnfield-GmbH/CodingChallenge
+git clone https://github.com/priyangamani/MusicPlayerApp/tree/master
 
 cd MusicPlayer
 npm install
